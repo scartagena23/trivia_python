@@ -1,0 +1,14 @@
+{
+  "1": {
+    "question": "The code in The Matrix comes from what food recipes?\n(a) Sushi recipes\n(b) Dumpling recipes\n(c) Stir-fry recipes\n(d) Pad thai recipes\n",
+    "answer": "a",
+    "more_info": "A production designer scanned symbols from his wife's sushi cookbooks, then manipulated them to create the iconic 'code.'",
+    "user_response": "None"
+  },
+  "2": {
+    "question": "What does GST stand for?\n(a) Goods and Sales Tax\n(b) Government Sales Tax\n(c) Goods and Services Tax\n(d) General Sales Tax\n",
+    "answer": "c",
+    "more_info": "The goods and services tax (GST) is a value-added tax levied on most goods and services sold for domestic consumption. The GST is paid by consumers, but it is remitted to the government by the businesses selling the goods and services. In effect, GST is indirect tax provides revenue for the government. In India it is a comprehensive, multi-stage, destination-based tax that is levied on every value addition.",
+    "user_response": "None"
+  }
+}
