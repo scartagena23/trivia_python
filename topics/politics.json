@@ -1,0 +1,32 @@
+{
+  "1": {
+    "question": "Who ran for President of the United States with the campaign slogan 'A chicken in every pot and a car in every garage'?\n(a) William McKinley\n(b) Woodrow Wilson\n(c) Herbert Hoover\n(d) Calvin Coolidge\n",
+    "answer": "c",
+    "more_info": "In 1928, Herbert Hoover ran for President of the United States with that campaign slogan. Hoover carried 58.2 percent of the vote, easily defeating Democratic candidate Alfred E. Smith.",
+    "user_response": "None"
+  },
+  "2": {
+    "question": "What U.S. President refused to use the telephone while in office?\n(a) Herbert Hoover\n(b) Richard Nixon\n(c) Calvin Coolidge\n(d) Warren G. Harding\n",
+    "answer": "c",
+    "more_info": "Calvin Coolidge refused to use the telephone while he was President. A man of few words, he once said, 'If you don't say anything, you won't be called on to repeat it.'",
+    "user_response": "None"
+  },
+  "3": {
+    "question": "In the case of a tied vote in the U.S. Senate, is the deciding vote cast by?\n(a) The vice president\n(b) The president\n(c) The Senate majority leader\n(d) The Senate parliamentarian\n",
+    "answer": "a",
+    "more_info": "In the case of a tie, the vice president (president of the Senate) casts the tie breaking vote.",
+    "user_response": "None"
+  },
+  "4": {
+    "question": "How is the number of terms a president can serve determined?\n(a) The 22nd Amendment of the Constitution\n(b) There is no limit to the number of terms a president can serve\n(c) Article II of the U.S. Constitution\n(d) Custom and precedent\n",
+    "answer": "a",
+    "more_info": "When term limits are found in presidential and semi-presidential systems they act as a method of curbing the potential for monopoly, where a leader effectively becomes 'president for life'.",
+    "user_response": "None"
+  },
+  "5": {
+    "question": "Which of the following rights is guaranteed by the First Amendment to the Constitution?\n(a) Right of free speech\n(b) Right to bear arms\n(c) Right to privacy\n(d) Right to remain silent \n",
+    "answer": "a",
+    "more_info": "The First Amendment guarantees freedoms concerning religion, expression, assembly, and the right to petition. It forbids Congress from both promoting one religion over others and also restricting an individual's religious practices.",
+    "user_response": "None"
+  }
+}

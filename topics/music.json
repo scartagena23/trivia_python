@@ -1,14 +1,32 @@
 {
   "1": {
-    "question": "The code in The Matrix comes from what food recipes?\n(a) Sushi recipes\n(b) Dumpling recipes\n(c) Stir-fry recipes\n(d) Pad thai recipes\n",
+    "question": "Name the person who replaced Ozzy Osbourne as Black Sabbath's lead singer?\n(a) Ronnie James Dio\n(b) Judas Priest\n(c) Dokken\n(d) Whitesnake\n",
     "answer": "a",
-    "more_info": "A production designer scanned symbols from his wife's sushi cookbooks, then manipulated them to create the iconic 'code.'",
+    "more_info": "Ronnie James Dio replaced original vocalist Ozzy Osbourne in 1979, and initially recorded two studio albums.",
     "user_response": "None"
   },
   "2": {
-    "question": "What does GST stand for?\n(a) Goods and Sales Tax\n(b) Government Sales Tax\n(c) Goods and Services Tax\n(d) General Sales Tax\n",
-    "answer": "c",
-    "more_info": "The goods and services tax (GST) is a value-added tax levied on most goods and services sold for domestic consumption. The GST is paid by consumers, but it is remitted to the government by the businesses selling the goods and services. In effect, GST is indirect tax provides revenue for the government. In India it is a comprehensive, multi-stage, destination-based tax that is levied on every value addition.",
+    "question": "Name the all-time best-selling movie soundtrack?\n(a) I have nothing\n(b) My love is your love\n(c) Waiting to exhale\n(d) The Bodyguard: Original Soundtrack Album\n",
+    "answer": "d",
+    "more_info": "The Bodyguard is the best-selling soundtrack album of all time, selling 45 million copies worldwide.",
+    "user_response": "None"
+  },
+  "3": {
+    "question": "Name the first person to appear on the cover of the Rolling stones magazine?\n(a) Peter Bowes\n(b) John Lennon\n(c) Richard Gere\n(d) Tom Petty\n",
+    "answer": "b",
+    "more_info": "The first issue appeared on Nov. 9, 1967, with John Lennon on the cover.",
+    "user_response": "None"
+  },
+  "4": {
+    "question": "The first hispanic to be inducted into the Rock and Roll Hall of Fame is whom?\n(a) Carlos Santana\n(b) Cindy Blackman\n(c) Rob Thomas\n(d) John Lee Hooker\n",
+    "answer": "a",
+    "more_info": "Carlos Santana became the Hispanic to be voted into the Rock & Roll Hall of Fame in 1998.",
+    "user_response": "None"
+  },
+  "5": {
+    "question": "Among the following name the hymn written by John Newton?\n(a) Ave Maria\n(b) Holy Holy Holy\n(c) Rock of Ages\n(d) Amazing Grace\n",
+    "answer": "d",
+    "more_info": "The beloved hymn and its author John Newton, a former enslaver, have inspired a new Broadway musical. 'Amazing Grace' is one of the most beloved hymns of the last two centuries",
     "user_response": "None"
   }
 }

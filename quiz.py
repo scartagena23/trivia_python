@@ -25,6 +25,7 @@ def score_response(key, response):
         return 2
     else:
         print("Q.{0} Incorrect!".format(key))
+        print("Your Answer was ({0})".format(response['user_response']))
         print("Right Answer is ({0})".format(actual))
         print("Learn more : " + response["more_info"] + "\n")
         return 0
@@ -37,11 +38,11 @@ def quiz(questions):
         "\n2. Each correct question gets you 2 points\n3. Wrong answers are a big FAT 0 points"
         "\nQuiz will start momentarily. May the odds be in your favor!\n")
     time.sleep(5)
-    for key, meta in questions.items():
-        questions[key]["user_response"] = generate_question(meta["question"])
+    for key, choice in questions.items():
+        questions[key]["user_response"] = generate_question(choice["question"])
     print("\n***************** SCORE ********************\n")
-    for key, meta in questions.items():
-        score += score_response(key, meta)
+    for key, choice in questions.items():
+        score += score_response(key, choice)
     print("Your Score is:", score, "/", (2 * len(questions)))
 
 
@@ -58,7 +59,7 @@ def read_question(filename):
 def start_quiz():
     flag = False
     try:
-        choice = int(input(f"\nWelcome to Today's Trivia!\nChoose your category of interest:\n(1). Music\n(2). "
+        choice = int(input(f"\nChoose your category of interest:\n(1). Music\n(2). "
                            f"Movies\n(3). Cars\n(4). Politics\n(5). Literature\nEnter Your Choice [1/2/3/4/5]: "))
         if choice > len(CATEGORY_LIST) or choice < 1:
             print("Invalid Choice. Please Try Again")
@@ -83,7 +84,7 @@ def user_begin_prompt():
     play = input("What is your choice? : ")
     if play.lower() == 'a' or play.lower() == 'y':
         name = input("What is your name? : ")
-        print(f"\nHi there {name}! Let's play a Trivia Game!\n")
+        print(f"\nHi there {name}! Let's play a Trivia Game!")
         start_quiz()
     elif play.lower() == 'b':
         print("We are sad to see you go. Hope you come back soon!")
